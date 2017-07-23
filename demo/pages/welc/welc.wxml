@@ -1,0 +1,7 @@
+<view class="cont">
+  <image class="avatar" src="/images/top.png"></image>
+  <text class="name">hello,云弋</text>
+  <view class="moto-cont" bindtap="onTap">
+    <text class="moto">打开您的小程序</text>
+  </view>
+</view>

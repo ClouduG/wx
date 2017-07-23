@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "pages/welc/welc",
+    "pages/post/post",
+    "pages/post/post-detail/post-detail"
+  ],
+  "window":{
+    "navigationBarBackgroundColor":"#405f80"
+  }
+}
